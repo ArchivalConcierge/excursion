@@ -1,18 +1,19 @@
-h1, h2, h3, h4, p {
+h1, h2, h3, h4 {
   font-family: Verdana;
+  text-align: center;
 }
 h1 {
   font-weight: Normal;
   font-size: 50 px:
-  color: white;
 }
 h2 {
   font-weight: 300;
   font-size: 42 px;
+  color: White;
 }
 h4 {
-  color: Aquamarine;
   font-size: 16 px;
+  color: Aquamarine;
 }
 h3 {
   font-family: Verdana;
@@ -22,7 +23,12 @@ h3 {
 body {
   background-color: black;
   text-align: center;
+  color: White;
 }
 p {
+  font-family: Verdana;
   color: Gray;
+}
+.copyright {
+  text-align: right;
 }
